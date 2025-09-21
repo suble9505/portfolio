@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: ad5f4898940a1b3429b4ca6c34b49403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5525233801533815236
+    second: catch_hiu_logo_0
+  - first:
+      213: -4710791189795679633
+    second: catch_hiu_logo_1
+  - first:
+      213: 6217084493072438090
+    second: catch_hiu_logo_2
+  - first:
+      213: 1891937816641894625
+    second: catch_hiu_logo_3
+  - first:
+      213: 538950059675332734
+    second: catch_hiu_logo_4
+  - first:
+      213: 1982086822529865972
+    second: catch_hiu_logo_5
+  - first:
+      213: -7422516888561070038
+    second: catch_hiu_logo_6
+  - first:
+      213: -6905656469381416734
+    second: catch_hiu_logo_7
+  - first:
+      213: -7783237860590446329
+    second: catch_hiu_logo_8
+  - first:
+      213: -5022127906438536232
+    second: catch_hiu_logo_9
+  - first:
+      213: 4377553312019041160
+    second: catch_hiu_logo_10
+  - first:
+      213: -342970293784639522
+    second: catch_hiu_logo_11
+  - first:
+      213: -271487284516878520
+    second: catch_hiu_logo_12
+  - first:
+      213: -4774459090848716249
+    second: catch_hiu_logo_13
+  - first:
+      213: 1744744655273114976
+    second: catch_hiu_logo_14
+  - first:
+      213: -7623021379097354825
+    second: catch_hiu_logo_15
+  - first:
+      213: -2697182972285872864
+    second: catch_hiu_logo_16
+  - first:
+      213: 3209892869630741431
+    second: catch_hiu_logo_17
+  - first:
+      213: -1507643658976814636
+    second: catch_hiu_logo_18
+  - first:
+      213: 5379888375462058570
+    second: catch_hiu_logo_19
+  - first:
+      213: 6664955174306264722
+    second: catch_hiu_logo_20
+  - first:
+      213: 8232972400231667496
+    second: catch_hiu_logo_21
+  - first:
+      213: -5309372701476603036
+    second: catch_hiu_logo_22
+  - first:
+      213: 4970123638601606123
+    second: catch_hiu_logo_23
+  - first:
+      213: -8890496409601362539
+    second: catch_hiu_logo_24
+  - first:
+      213: -4841103068404767512
+    second: catch_hiu_logo_25
+  - first:
+      213: 5047710529206427079
+    second: catch_hiu_logo_26
+  - first:
+      213: -1243272417114126001
+    second: catch_hiu_logo_27
+  - first:
+      213: 8142234347512206549
+    second: catch_hiu_logo_28
+  - first:
+      213: 5935379908692743831
+    second: catch_hiu_logo_29
+  - first:
+      213: 5119954003208333557
+    second: catch_hiu_logo_30
+  - first:
+      213: 8758890387695807559
+    second: catch_hiu_logo_31
+  - first:
+      213: 6759205845327549959
+    second: catch_hiu_logo_32
+  - first:
+      213: 4447377478883317173
+    second: catch_hiu_logo_33
+  - first:
+      213: 7064935115819389683
+    second: catch_hiu_logo_34
+  - first:
+      213: 9153255535216416050
+    second: catch_hiu_logo_35
+  - first:
+      213: -8707900116285200688
+    second: catch_hiu_logo_36
+  - first:
+      213: -266350385750009517
+    second: catch_hiu_logo_37
+  - first:
+      213: -4474105656372316198
+    second: catch_hiu_logo_38
+  - first:
+      213: -5380576545035169827
+    second: catch_hiu_logo_39
+  - first:
+      213: 7046097166022520788
+    second: catch_hiu_logo_40
+  - first:
+      213: -2798117841059917366
+    second: catch_hiu_logo_41
+  - first:
+      213: -8069169345819623612
+    second: catch_hiu_logo_42
+  - first:
+      213: 4279368928637120732
+    second: catch_hiu_logo_43
+  - first:
+      213: -1776429944635174967
+    second: catch_hiu_logo_44
+  - first:
+      213: 7549271305668766788
+    second: catch_hiu_logo_45
+  - first:
+      213: -5552494106983055984
+    second: catch_hiu_logo_46
+  - first:
+      213: -5430225698362495977
+    second: catch_hiu_logo_47
+  - first:
+      213: 4418825732616783068
+    second: catch_hiu_logo_48
+  - first:
+      213: 1887154661626188057
+    second: catch_hiu_logo_49
+  - first:
+      213: 6504669719766332036
+    second: catch_hiu_logo_50
+  - first:
+      213: -6559312531944463822
+    second: catch_hiu_logo_51
+  - first:
+      213: 8571580554216159425
+    second: catch_hiu_logo_52
+  - first:
+      213: -9135160843363539208
+    second: catch_hiu_logo_53
+  - first:
+      213: -3705734663000817044
+    second: catch_hiu_logo_54
+  - first:
+      213: 906538031904453133
+    second: catch_hiu_logo_55
+  - first:
+      213: -423803971984657293
+    second: catch_hiu_logo_56
+  - first:
+      213: 8752342212692414351
+    second: catch_hiu_logo_57
+  - first:
+      213: 8858511146529622887
+    second: catch_hiu_logo_58
+  - first:
+      213: 8138627686537473371
+    second: catch_hiu_logo_59
+  - first:
+      213: -8003111486792374929
+    second: catch_hiu_logo_60
+  - first:
+      213: -4703536148809896079
+    second: catch_hiu_logo_61
+  - first:
+      213: -7354779689024692203
+    second: catch_hiu_logo_62
+  - first:
+      213: -4093768651657063076
+    second: catch_hiu_logo_63
+  - first:
+      213: -2459933552720507584
+    second: catch_hiu_logo_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catch_hiu_logo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c977695ed29dac40800000000000000
+      internalID: 5525233801533815236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 130
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6250392f58ef9eb0800000000000000
+      internalID: -4710791189795679633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a431c2c2865874650800000000000000
+      internalID: 6217084493072438090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 130
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8711a9b63814a10800000000000000
+      internalID: 1891937816641894625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 125
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70bf9a493cba7700800000000000000
+      internalID: 538950059675332734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 96
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f810eaa679c18b10800000000000000
+      internalID: 1982086822529865972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dafd473cedf890800000000000000
+      internalID: -7422516888561070038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 101
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e874a1670e2a20a0800000000000000
+      internalID: -6905656469381416734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709922537626cf390800000000000000
+      internalID: -7783237860590446329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a7280741dd4ab0800000000000000
+      internalID: -5022127906438536232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bca344b8130cc30800000000000000
+      internalID: 4377553312019041160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 112
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7847eb5568d3bf0800000000000000
+      internalID: -342970293784639522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 46
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847065dc0cb7b3cf0800000000000000
+      internalID: -271487284516878520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 46
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae357c0c6bdbdb0800000000000000
+      internalID: -4774459090848716249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 45
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db0591504963810800000000000000
+      internalID: 1744744655273114976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd91b7b176953690800000000000000
+      internalID: -7623021379097354825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 45
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0251ba2806ea19ad0800000000000000
+      internalID: -2697182972285872864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 46
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4665ee84db8c20800000000000000
+      internalID: 3209892869630741431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 45
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d911da7416c31be0800000000000000
+      internalID: -1507643658976814636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 84
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5bae39f339aa40800000000000000
+      internalID: 5379888375462058570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2963d682b6dae7c50800000000000000
+      internalID: 6664955174306264722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827576127c4614270800000000000000
+      internalID: 8232972400231667496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 80
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb45488a15156b0800000000000000
+      internalID: -5309372701476603036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3ee90dd1d69f440800000000000000
+      internalID: 4970123638601606123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 13
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59533dc8e9c9e9480800000000000000
+      internalID: -8890496409601362539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 71
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42ea69862f0dcb0800000000000000
+      internalID: -4841103068404767512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 80
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd195e7bf11d0640800000000000000
+      internalID: 5047710529206427079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f490fd2e2520fbee0800000000000000
+      internalID: -1243272417114126001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d41379eff60ff070800000000000000
+      internalID: 8142234347512206549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7961f987494be5250800000000000000
+      internalID: 5935379908692743831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_30
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 45
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8629b0a0bbd0740800000000000000
+      internalID: 5119954003208333557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_31
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 45
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2139a664dd8970800000000000000
+      internalID: 8758890387695807559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061e7e87e58dcd50800000000000000
+      internalID: 6759205845327549959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b599eaf04248bd30800000000000000
+      internalID: 4447377478883317173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f219936e01bb0260800000000000000
+      internalID: 7064935115819389683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d3fac965e60f70800000000000000
+      internalID: 9153255535216416050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6ec3d0bf2572780800000000000000
+      internalID: -8707900116285200688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359159f3cbbbd4cf0800000000000000
+      internalID: -266350385750009517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7bc504c98c8e1c0800000000000000
+      internalID: -4474105656372316198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf416ac32a5455b0800000000000000
+      internalID: -5380576545035169827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa8a96a04c8c160800000000000000
+      internalID: 7046097166022520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 6
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d0fb06a61b29d0800000000000000
+      internalID: -2798117841059917366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f33f57b3d840090800000000000000
+      internalID: -8069169345819623612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd072461e5f536b30800000000000000
+      internalID: 4279368928637120732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf47a5906ad857e0800000000000000
+      internalID: -1776429944635174967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_45
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44caf67314664c860800000000000000
+      internalID: 7549271305668766788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 6
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d33df270491f2b0800000000000000
+      internalID: -5552494106983055984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce7e67f76f3a4b0800000000000000
+      internalID: -5430225698362495977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48af48792d25d30800000000000000
+      internalID: 4418825732616783068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911937a8a25803a10800000000000000
+      internalID: 1887154661626188057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_50
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48279eb95aa354a50800000000000000
+      internalID: 6504669719766332036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_51
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232aea24104a8f4a0800000000000000
+      internalID: -6559312531944463822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c833b1991f54f670800000000000000
+      internalID: 8571580554216159425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f62245fc93693180800000000000000
+      internalID: -9135160843363539208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_54
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c620cf335f5929cc0800000000000000
+      internalID: -3705734663000817044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_55
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02fb07798ba49c00800000000000000
+      internalID: 906538031904453133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_56
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374747b68885e1af0800000000000000
+      internalID: -423803971984657293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f003cded0967970800000000000000
+      internalID: 8752342212692414351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_58
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8cbf04f0cfea70800000000000000
+      internalID: 8858511146529622887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_59
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 6
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da937b2c632f070800000000000000
+      internalID: 8138627686537473371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_60
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 6
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6564eb418c3fe090800000000000000
+      internalID: -8003111486792374929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_61
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 6
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2af50bcea9beb0800000000000000
+      internalID: -4703536148809896079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_62
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ec6217d29ee990800000000000000
+      internalID: -7354779689024692203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_63
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 6
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d95dd9130037c0800000000000000
+      internalID: -4093768651657063076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catch_hiu_logo_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d8703977f8cddd0800000000000000
+      internalID: -2459933552720507584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      catch_hiu_logo_0: 5525233801533815236
+      catch_hiu_logo_1: -4710791189795679633
+      catch_hiu_logo_10: 4377553312019041160
+      catch_hiu_logo_11: -342970293784639522
+      catch_hiu_logo_12: -271487284516878520
+      catch_hiu_logo_13: -4774459090848716249
+      catch_hiu_logo_14: 1744744655273114976
+      catch_hiu_logo_15: -7623021379097354825
+      catch_hiu_logo_16: -2697182972285872864
+      catch_hiu_logo_17: 3209892869630741431
+      catch_hiu_logo_18: -1507643658976814636
+      catch_hiu_logo_19: 5379888375462058570
+      catch_hiu_logo_2: 6217084493072438090
+      catch_hiu_logo_20: 6664955174306264722
+      catch_hiu_logo_21: 8232972400231667496
+      catch_hiu_logo_22: -5309372701476603036
+      catch_hiu_logo_23: 4970123638601606123
+      catch_hiu_logo_24: -8890496409601362539
+      catch_hiu_logo_25: -4841103068404767512
+      catch_hiu_logo_26: 5047710529206427079
+      catch_hiu_logo_27: -1243272417114126001
+      catch_hiu_logo_28: 8142234347512206549
+      catch_hiu_logo_29: 5935379908692743831
+      catch_hiu_logo_3: 1891937816641894625
+      catch_hiu_logo_30: 5119954003208333557
+      catch_hiu_logo_31: 8758890387695807559
+      catch_hiu_logo_32: 6759205845327549959
+      catch_hiu_logo_33: 4447377478883317173
+      catch_hiu_logo_34: 7064935115819389683
+      catch_hiu_logo_35: 9153255535216416050
+      catch_hiu_logo_36: -8707900116285200688
+      catch_hiu_logo_37: -266350385750009517
+      catch_hiu_logo_38: -4474105656372316198
+      catch_hiu_logo_39: -5380576545035169827
+      catch_hiu_logo_4: 538950059675332734
+      catch_hiu_logo_40: 7046097166022520788
+      catch_hiu_logo_41: -2798117841059917366
+      catch_hiu_logo_42: -8069169345819623612
+      catch_hiu_logo_43: 4279368928637120732
+      catch_hiu_logo_44: -1776429944635174967
+      catch_hiu_logo_45: 7549271305668766788
+      catch_hiu_logo_46: -5552494106983055984
+      catch_hiu_logo_47: -5430225698362495977
+      catch_hiu_logo_48: 4418825732616783068
+      catch_hiu_logo_49: 1887154661626188057
+      catch_hiu_logo_5: 1982086822529865972
+      catch_hiu_logo_50: 6504669719766332036
+      catch_hiu_logo_51: -6559312531944463822
+      catch_hiu_logo_52: 8571580554216159425
+      catch_hiu_logo_53: -9135160843363539208
+      catch_hiu_logo_54: -3705734663000817044
+      catch_hiu_logo_55: 906538031904453133
+      catch_hiu_logo_56: -423803971984657293
+      catch_hiu_logo_57: 8752342212692414351
+      catch_hiu_logo_58: 8858511146529622887
+      catch_hiu_logo_59: 8138627686537473371
+      catch_hiu_logo_6: -7422516888561070038
+      catch_hiu_logo_60: -8003111486792374929
+      catch_hiu_logo_61: -4703536148809896079
+      catch_hiu_logo_62: -7354779689024692203
+      catch_hiu_logo_63: -4093768651657063076
+      catch_hiu_logo_64: -2459933552720507584
+      catch_hiu_logo_7: -6905656469381416734
+      catch_hiu_logo_8: -7783237860590446329
+      catch_hiu_logo_9: -5022127906438536232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
